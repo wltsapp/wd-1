@@ -1,0 +1,393 @@
+{"intents": [
+        {"tag": "FBAds1",
+         "patterns": ["Do you charge extra for FB Ads & Bing Ads Campaign?"],
+         "responses": ["No, we do not charge extra for Bing & FB ad campaigns. We charge you only for the Adspend, no matter which channel your ads are running."],
+         "context_set": ""
+        },		
+        {"tag": "PPC",
+         "patterns": ["How Unique is your PPC Management Service? "],
+         "responses": ["Apart from being an award winning Google Premier Partner Agency, we adapt a blue ocean strategy focusing on profitable keywords which are discovered through human intelligence with the aid of Artificial Intelligence. We work closely with Google on every campaign management adapting to the new trends and make use of the latest exclusive research data from Google."]
+        },  
+{"tag": "PPC1",
+         "patterns": ["Which Countries do You Offer Google Shopping Ads Management Service?"],
+         "responses": ["We manage almost all Countries with English language. However our major markets for Google Shopping Management Ads is Google.com - US, Google.co.uk - UK, Google.co.in - India,Google.com.au - Australia"]
+        },	
+{"tag": "PPC2",
+         "patterns": ["Do you optimize Google product feeds and how often is it submitted to merchant account?"],
+         "responses": ["Yes, we prioritize products as per the client discussion, past performance and optimize product feeds for maximum conversions. Our Google shopping team will optimize the feeds on an ongoing basis. Product feeds are submitted automatically or manually based on the shopping platform (Magento, Shopify etc.) and number of products."]
+        },	
+{"tag": "PPC4",
+         "patterns": ["Do you provide recommendations for product detail pages for UX design, Conversions etc.?"],
+         "responses": ["Sure, we will analyze your product detail pages for improved conversions and provide you with recommendations on clear call to actions, design elements, content placement etc. With clear titles and description including brand, gender, age group, color condition etc. we make your products displayed for every relevant search term."]
+        },	
+{"tag": "PPC5",
+         "patterns": ["Which Countries do You Manage Facebook Ads?","Which Countries do You Manage Amazon Sponsored Ads?"],
+         "responses": ["We manage almost all Countries with English language. However our major expertise is with the following countries India, US, Canada, UK, and Australia."]
+        },	
+{"tag": "PPC6",
+         "patterns": ["Will you create the Ad Images and is there any charge?"],
+         "responses": ["Our experienced Facebook Creative team will do the Ad Image creation. We do it for $8/Image."]
+        },	
+{"tag": "PPC7",
+         "patterns": ["Do you provide recommendations for Call to actions, page speed, mobile responsiveness, UX design and Conversions etc.?","Do you provide recommendations for product detail pages for UX design, Conversions etc.?"],
+         "responses": ["Sure we will analyze your website/landing pages for improved conversions and provide you with recommendations on clear call to actions, design elements, content placement etc.","Sure, we will analyze your product detail pages for improved conversions and provide you with recommendations on clear call to actions, design elements, content placement etc."]
+        },	
+{"tag": "PPC8",
+         "patterns": ["Can you run a Facebook ad without a website or Facebook page?"],
+         "responses": ["You can run ads without a website using nearly all the Facebook ad objectives with a Facebook page. The recommended objectives are store visit, lead form, reach, messenger and post engagement Ads."]
+        },	
+{"tag": "PPC9",
+         "patterns": ["Do Facebook ads run on Instagram?"],
+         "responses": ["Yes, we can add Instagram ads to Facebook ad campaigns through Ads Manager by simply checking the Instagram box under the ad set's Placement section."]
+        },	
+{"tag": "PPC10",
+         "patterns": ["Is that possible to run Ads only on Instagram?"],
+         "responses": ["This is possible. The Instagram placement supports the following Ad objectives Brand awareness, Reach, Traffic, App installs, Engagement, Video views, Conversions and Lead generation."]
+        },		
+{"tag": "PPC11",
+         "patterns": ["Do I need an Instagram account to run ads on Instagram?"],
+         "responses": ["No, an Instagram account is recommended but not required to run ads on Instagram."]
+        },
+{"tag": "PPC12",
+         "patterns": ["What are the Accepted payment options for Facebook ads?"],
+         "responses": ["You can pay for Facebook ads with one of the following accepted payment methods Credit cards and co-branded debit cards (American Express, Discover, Mastercard and Visa), PayPal, Bank account (direct debit) in supported countries, Local manual payment methods in some countries and currencies."]
+        },
+{"tag": "PPC13",
+         "patterns": ["Will you write the Ad Creative for Headline Ads and is there any charge?"],
+         "responses": ["Our Amazon Product Ad's Creative team will do the Ad Creative for Headline ads and we do it FREE of charge."]
+        },	
+{"tag": "PPC14",
+         "patterns": ["Do you have more data on Bing Ads?"],
+         "responses": ["You can download the Bing Ads statistics, facts & features published by Microsoft"]
+        },	
+{"tag": "PPC15",
+         "patterns": ["Why is PPC for Dentists Quintessential?"],
+         "responses": ["Patients search for dentists mostly in dire situations where they need the service urgently. They look for Dentists in the locality and look for dentists nearby or dentists in [locality], your service have to be in the top 3 positions (Ads) which attract 40% of the clicks. It is the fastest way to acquire new patients and grow your business. Tradition advertising is not effective for Dentist. A patient acquired will return back for every ailment in the future or at least until he lose all his teeth. PPC for dentists may appear to be expensive than a local classified ad or billboard but the conversion rates are significantly higher with low CPA (Cost Per Acquisition) making it quintessential for every dentist."]
+        },	
+{"tag": "PPC16",
+         "patterns": ["What Dentist Services do you offer PPC Management?"],
+         "responses": ["We provide PPC management to almost all Dental services. Here are a few dentist services we are working with PPC Management Services for General Dentist, PPC Management Services for Endodontist, PPC Management Services for Orthodontist, PPC Management Services for Oral and Maxillofacial Surgeon,PPC Management Services for Pediatric Dentist,PPC Management Services for Prosthodontist"]
+        },	
+{"tag": "PPC17",
+         "patterns": ["What is the average cost per click & cost per lead for Dentists?"],
+         "responses": ["The cost per click and cost per lead for Dentists depend heavily on the type of service they offer combined with the location. The CPC for a endodontist is very different from a pediatric dentist. So is the case of location, CPC in Las Vegas is different from Dallas. Please feel free to contact us for the current PPC rates for the dentist service you provide in your location."]
+        },	
+{"tag": "PPC18",
+         "patterns": ["Why is PPC for Lawyers Important? Do I really need this service?"],
+         "responses": ["Potential clients who search for legal service have a very serious intent and will hire almost immediately. Statistical data indicate that 40% of searchers click on the top three ads shown above the results. Legal industry is a highly competitive industry with long term clients and heavily advertised. You will gain advantage over your competition in winning new clients."]
+        },		
+		{"tag": "PPC19",
+         "patterns": ["What are the types of legal services your provide PPC for?"],
+         "responses": ["We provide PPC management solutions to almost all legal services for every location. Here are a few legal services we are working with PPC Management Services for Personal Injury Lawyer, PPC Management Services for Divorce Lawyer, PPC Management Services for Estate Planning Lawyer, PPC Management Services for Bankruptcy Lawyer, PPC Management Services for Intellectual Property Lawyer, PPC Management Services for Employment Lawyer, PPC Management Services for Corporate Lawyer, PPC Management Services for Immigration Lawyer, PPC Management Services for Criminal Lawyer"]
+        },	
+		{"tag": "PPC20",
+         "patterns": ["What is the average cost per click & cost per lead for Legal Services?"],
+         "responses": ["The cost per click and cost per lead for Legal services depend heavily on the type of service combined with the location. The CPC for a Divorce lawyer is very different from a corporate lawyer. So is the case of location, CPC in Sydney is different from San Francisco. Please feel free to contact us for the current PPC rates for legal services."]
+        },	
+		{"tag": "PPC21",
+         "patterns": ["How is Real Estate PPC different from others? "],
+         "responses": ["Extreme focus and care is needed when choosing the keywords and target audience. You cannot show a budget home ad to a millionaire and vice versa. There are a number of moving parts when it comes to Real Estate PPC strategy. Every campaign should be tailor made according to the type of property, the location, the cost, market trends along with various factors. We hear a lot from our clients who had spent thousands of dollars without any success. Most of the real estate campaigns fail due to lack of expertise. Real Estate campaigns are very different from other lead generation campaigns as it requires an advanced level of Industry experience, efficiency and knowledge."]
+        },
+		{"tag": "PPC22",
+         "patterns": ["How do you follow the Real Estate Market Trends?"],
+         "responses": ["We work with directly with several sources including Google who provide us with Industry trends, Search data, User behavior and several other metrics. For example, the mobile search for real estate related queries have increased 45% (Maharashtra, India) while the search in tablets has declined 21%."]
+        },
+		{"tag": "PPC23",
+         "patterns": ["How do you reach an audience who can pay for a million dollar or above for a property?"],
+         "responses": ["We target the high rollers that are actively looking to purchase Premium products. Eg: Booked a test drive with BMW, People looking to purchase a Rolex. Visit each site and capture the test drive page or the test drive confirmation page to set this up. Find out most valuable tips and how you can get 30% more leads from this Real Estate Playbook."]
+        },
+		{"tag": "PPC24",
+         "patterns": ["What sectors in the Real Estate Industry do you offer PPC services?"],
+         "responses": ["We provide PPC services to every sector in the real estate. No matter big, small or medium, we have winning PPC strategies for PPC Management Services for Real Estate Promoters, PPC Management Services for Real Estate Agents, PPC Management Services for Architects, PPC Management Services for Builders, PPC Management Services for Real Estate Finance, PPC Management Services for Mortgage"]
+        },
+		{"tag": "PPC25",
+         "patterns": ["What is the average cost per click & cost per lead for Real Estate Industry?"],
+         "responses": ["The cost per click and cost per lead for Real Estate services depend heavily on the type of property combined with the location. The CPC for a budget home is very different from a luxury villa. So is the case of location, CPC in Dallas is different from San Francisco. Please feel free to contact us for the current PPC rates for the type of property in your area."]
+        },
+		{"tag": "PPC26",
+         "patterns": ["What is a Google Partner?"],
+         "responses": ["You must be aware of AdWords, Google's paid advertising which is done by millions of businesses. Practically it is impossible for Google to analyze all this accounts and suggest best practices. So they educate PPC campaign managers through guides, how to videos, webinars, podcast etc. To test the expertise, Google conducts online exams for search, display, mobile, video, shopping, and analytics. Those who pass the exam will be awarded a certificate [recent certificate] valid for a year and they become a Google certified expert. To become a partner, the agency should spend a certain amount of money on Adspend for every quarter and should have certified experts working for them. The adspend and number of experts differ from a regular Google partner and a Premium Google partner agency."]
+        },
+		{"tag": "PPC27",
+         "patterns": ["What is the difference between Google Partner and Google Premier Partner?"],
+         "responses": ["Google offer two types of partnership with agencies, Google Partner and Premier Partner. \n A Google Partner agency must have at least one Adwords certified expert affiliated with them. They should have a minimum adspend of $10,000 in the last 90 days. A Google partner agency should follow best practices and adhere to Google guidelines of advertising. Not all the agencies who meet the above requirements are provided with a Google partner badge. Google have their own process to approve an agency as a partner. \n  Only a handful of agencies win the Premier Partner badge. Less than 3% of the agencies qualify as Google Premier Partner. Google Premier Partners have a significant number of Adwords certified experts. They manage multiple clients with Adspend over $100,000. They have a strong team with excellent client retention in the past. They should be able to deliver effective results on their existing campaigns. There are various other factors and Google does its due diligence before offering a Premier badge. Google has close relations with premier partners where they integrate their staff with the partners' at the operational level. They host events along with premier partners on product launch, good practices etc. to help clients achieve their business goals."]
+        },
+		{"tag": "PPC28",
+         "patterns": ["How do I identify a Google Premier Partner?"],
+         "responses": ["Google Premier Partners display the badge on their websites. There are a number of companies which show fake badges. You have to click on the badge and make sure that it takes to a page in Google (Check if it is an authentic page from Google) where they provide the credential of the partner. If the badge is clickable and takes you to a similar page then they are for real."]
+        },
+		{"tag": "PPC29",
+         "patterns": ["What is the nearest landmark for whiteDigital?"],
+         "responses": ["We are next to the district court and you will find whiteDigital’s board on the four storied building- Advocate Dharmaraj Complex. HDFC Bank & Pravin Skin Clinic is in the same building."]
+        },
+		{"tag": "PPC30",
+         "patterns": ["Driving directions for whitedigital from Nagercoil Collector office?"],
+         "responses": ["Take the first left from the junction and take a right on the next roundtana and you will find whiteDigital next to district court on the right side within 200 meters. "]
+        },
+		{"tag": "PPC31",
+         "patterns": ["Does whiteDigital have a parking space?"],
+         "responses": ["Yes, you can park your vehicle in 100 meters: free parking."]
+        },
+		{"tag": "PPC32",
+         "patterns": ["Does whiteDigital have special facilities for physically challenged?"],
+         "responses": ["Yes, there is a lift and all the entrances are wheel chair friendly."]
+        },
+		{"tag": "PPC33",
+         "patterns": ["What is the best way to contact whiteDigital?"],
+         "responses": ["You can call weekdays 9-6 on 91-4652-230776/402776 Ext -1 or at any time call, message +91 94 980 999 71.  Our email id is info@whitedigital.in which you can mail 24X7 and your queries will be processed ASAP."]
+        },
+		{"tag": "PPC34",
+         "patterns": ["What payments are accepted in whiteDigital for PPC management?"],
+         "responses": ["Indian’s can pay in cash, cheque, demand draft and bank transfer. For others payment for PPC Management can be made through Transferwise, Bank Transfer, Paypal and Credit Card."]
+        },
+		{"tag": "PPC35",
+         "patterns": ["What is the minimum charge for PPC management services by whiteDigital?"],
+         "responses": ["INR 8000 or USD 89 is the minimum PPC management charge per month."]
+        },
+		{"tag": "PPC36",
+         "patterns": ["Why is whiteDigital’s PPC Management Cost less compared to other Google Premium Partners?"],
+         "responses": ["whiteDigital operates in a region where the operational costs are low and utilize Artificial Intelligence(AI) for successful PPC campaigns which keeps the cost lower while providing superior PPC campaign results."]
+        },
+		{"tag": "PPC37",
+         "patterns": ["Does whiteDigital really offer the PPC campaign setup for FREE?"],
+         "responses": ["Yes, PPC campaign setup is offered for FREE for Google Ads, FB Ads & Bing Ads. We have worked with 100’s of PPC campaigns and have the right data for any Industry making it much easier to setup the PPC campaigns.  We also offer up to $300 in Bonus credits for new accounts in Google Ads."]
+        },
+		{"tag": "PPC38",
+         "patterns": ["I do not have a website; do I qualify for whiteDigital’s PPC campaigns?"],
+         "responses": ["Absolutely, a landing page will be created for your service/product and PPC campaigns will be directed to it."]
+        },
+		{"tag": "PPC39",
+         "patterns": ["Can whiteDigital show my amazon sponsored ads in the similar products pages?"],
+         "responses": ["Yes, we can show your products in the related product pages by creating product targeted Adgroups in Amazon sponsored product campaigns."]
+        },
+		{"tag": "PPC40",
+         "patterns": ["Does whiteDigital create Headline Search Ads in Amazon?"],
+         "responses": ["Yes, we create headline search ads to create brand awareness. But the Brand should be registered in Amazon Seller central. To register your brand, you should be a manufacturer not a reseller."]
+        },
+		{"tag": "PPC41",
+         "patterns": ["I’ve just started selling in amazon. My products are not familiar to the shoppers. Can whiteDigital show my products to the potential buyers?"],
+         "responses": ["With Amazon Sponsored Product & Headline search ads, we can show your products to highly qualified audience with high purchase intent. Also, you have the opportunity to get your products on page 1 of Amazon search results with the help of sponsored ads."]
+        },
+		{"tag": "PPC42",
+         "patterns": ["Should I promote my Products ads only in the festival seasons or Prime day?"],
+         "responses": ["We recommend promoting the campaigns throughout the year if the products are not seasonal products. We suggest increasing the budget twice or thrice in the festival season, priming day, etc."]
+        },
+		{"tag": "PPC43",
+         "patterns": ["I want to track my revenue from Google organic, Ads and social networks. Can whiteDigital help me for this?"],
+         "responses": ["Yes, we can. We will setup Advance Ecommerce conversion tracking to track the transactions and revenue.  Ecommerce tracking allows you to measure the number of transactions and revenue that your website generates from each medium such as Google Ads, organic, social and direct and referral."]
+        },
+		{"tag": "PPC44",
+         "patterns": ["Do whiteDigital check about how the users navigate throughout my website and where they drop?"],
+         "responses": ["Yes of course, we will check the behavior flow of the users by using Google analytics. Also we will analyze the pages where the users are exit and we will sort out the reason for that."]
+        },
+		{"tag": "PPC45",
+         "patterns": ["What are the tools whiteDigital using to track the website actions such as form filling and page visits."],
+         "responses": ["Now we are using three major tools to track the website actions. We are using Google Ads conversion tracking, Google Analytics and Google tag manager to track the conversions. In some cases we will use third party tracking tools such as smartlook and hotjar."]
+        },
+      {"tag": "contact",
+       "patterns": ["How should I share my account access for a Free Expert Review?","How should I share the Bing Ads account access for a Free Expert Review?"],
+       "responses": ["Just contact us and we will get back to you in 24 hours with the details."]
+      },
+      {"tag": "thanks",
+       "patterns": ["Thanks", "Thank you", "That's helpful"],
+       "responses": ["Happy to help!", "Any time!", "My pleasure"]
+      }
+   ]
+}
+=======
+{"intents": [
+        {"tag": "FBAds1",
+         "patterns": ["Do you charge extra for FB Ads & Bing Ads Campaign?"],
+         "responses": ["No, we do not charge extra for Bing & FB ad campaigns. We charge you only for the Adspend, no matter which channel your ads are running."],
+         "context_set": ""
+        },		
+        {"tag": "PPC",
+         "patterns": ["How Unique is your PPC Management Service? "],
+         "responses": ["Apart from being an award winning Google Premier Partner Agency, we adapt a blue ocean strategy focusing on profitable keywords which are discovered through human intelligence with the aid of Artificial Intelligence. We work closely with Google on every campaign management adapting to the new trends and make use of the latest exclusive research data from Google."]
+        },  
+{"tag": "PPC1",
+         "patterns": ["Which Countries do You Offer Google Shopping Ads Management Service?"],
+         "responses": ["We manage almost all Countries with English language. However our major markets for Google Shopping Management Ads is Google.com - US, Google.co.uk - UK, Google.co.in - India,Google.com.au - Australia"]
+        },	
+{"tag": "PPC2",
+         "patterns": ["Do you optimize Google product feeds and how often is it submitted to merchant account?"],
+         "responses": ["Yes, we prioritize products as per the client discussion, past performance and optimize product feeds for maximum conversions. Our Google shopping team will optimize the feeds on an ongoing basis. Product feeds are submitted automatically or manually based on the shopping platform (Magento, Shopify etc.) and number of products."]
+        },	
+{"tag": "PPC4",
+         "patterns": ["Do you provide recommendations for product detail pages for UX design, Conversions etc.?"],
+         "responses": ["Sure, we will analyze your product detail pages for improved conversions and provide you with recommendations on clear call to actions, design elements, content placement etc. With clear titles and description including brand, gender, age group, color condition etc. we make your products displayed for every relevant search term."]
+        },	
+{"tag": "PPC5",
+         "patterns": ["Which Countries do You Manage Facebook Ads?","Which Countries do You Manage Amazon Sponsored Ads?"],
+         "responses": ["We manage almost all Countries with English language. However our major expertise is with the following countries India, US, Canada, UK, and Australia."]
+        },	
+{"tag": "PPC6",
+         "patterns": ["Will you create the Ad Images and is there any charge?"],
+         "responses": ["Our experienced Facebook Creative team will do the Ad Image creation. We do it for $8/Image."]
+        },	
+{"tag": "PPC7",
+         "patterns": ["Do you provide recommendations for Call to actions, page speed, mobile responsiveness, UX design and Conversions etc.?","Do you provide recommendations for product detail pages for UX design, Conversions etc.?"],
+         "responses": ["Sure we will analyze your website/landing pages for improved conversions and provide you with recommendations on clear call to actions, design elements, content placement etc.","Sure, we will analyze your product detail pages for improved conversions and provide you with recommendations on clear call to actions, design elements, content placement etc."]
+        },	
+{"tag": "PPC8",
+         "patterns": ["Can you run a Facebook ad without a website or Facebook page?"],
+         "responses": ["You can run ads without a website using nearly all the Facebook ad objectives with a Facebook page. The recommended objectives are store visit, lead form, reach, messenger and post engagement Ads."]
+        },	
+{"tag": "PPC9",
+         "patterns": ["Do Facebook ads run on Instagram?"],
+         "responses": ["Yes, we can add Instagram ads to Facebook ad campaigns through Ads Manager by simply checking the Instagram box under the ad set's Placement section."]
+        },	
+{"tag": "PPC10",
+         "patterns": ["Is that possible to run Ads only on Instagram?"],
+         "responses": ["This is possible. The Instagram placement supports the following Ad objectives Brand awareness, Reach, Traffic, App installs, Engagement, Video views, Conversions and Lead generation."]
+        },		
+{"tag": "PPC11",
+         "patterns": ["Do I need an Instagram account to run ads on Instagram?"],
+         "responses": ["No, an Instagram account is recommended but not required to run ads on Instagram."]
+        },
+{"tag": "PPC12",
+         "patterns": ["What are the Accepted payment options for Facebook ads?"],
+         "responses": ["You can pay for Facebook ads with one of the following accepted payment methods Credit cards and co-branded debit cards (American Express, Discover, Mastercard and Visa), PayPal, Bank account (direct debit) in supported countries, Local manual payment methods in some countries and currencies."]
+        },
+{"tag": "PPC13",
+         "patterns": ["Will you write the Ad Creative for Headline Ads and is there any charge?"],
+         "responses": ["Our Amazon Product Ad's Creative team will do the Ad Creative for Headline ads and we do it FREE of charge."]
+        },	
+{"tag": "PPC14",
+         "patterns": ["Do you have more data on Bing Ads?"],
+         "responses": ["You can download the Bing Ads statistics, facts & features published by Microsoft"]
+        },	
+{"tag": "PPC15",
+         "patterns": ["Why is PPC for Dentists Quintessential?"],
+         "responses": ["Patients search for dentists mostly in dire situations where they need the service urgently. They look for Dentists in the locality and look for dentists nearby or dentists in [locality], your service have to be in the top 3 positions (Ads) which attract 40% of the clicks. It is the fastest way to acquire new patients and grow your business. Tradition advertising is not effective for Dentist. A patient acquired will return back for every ailment in the future or at least until he lose all his teeth. PPC for dentists may appear to be expensive than a local classified ad or billboard but the conversion rates are significantly higher with low CPA (Cost Per Acquisition) making it quintessential for every dentist."]
+        },	
+{"tag": "PPC16",
+         "patterns": ["What Dentist Services do you offer PPC Management?"],
+         "responses": ["We provide PPC management to almost all Dental services. Here are a few dentist services we are working with PPC Management Services for General Dentist, PPC Management Services for Endodontist, PPC Management Services for Orthodontist, PPC Management Services for Oral and Maxillofacial Surgeon,PPC Management Services for Pediatric Dentist,PPC Management Services for Prosthodontist"]
+        },	
+{"tag": "PPC17",
+         "patterns": ["What is the average cost per click & cost per lead for Dentists?"],
+         "responses": ["The cost per click and cost per lead for Dentists depend heavily on the type of service they offer combined with the location. The CPC for a endodontist is very different from a pediatric dentist. So is the case of location, CPC in Las Vegas is different from Dallas. Please feel free to contact us for the current PPC rates for the dentist service you provide in your location."]
+        },	
+{"tag": "PPC18",
+         "patterns": ["Why is PPC for Lawyers Important? Do I really need this service?"],
+         "responses": ["Potential clients who search for legal service have a very serious intent and will hire almost immediately. Statistical data indicate that 40% of searchers click on the top three ads shown above the results. Legal industry is a highly competitive industry with long term clients and heavily advertised. You will gain advantage over your competition in winning new clients."]
+        },		
+		{"tag": "PPC19",
+         "patterns": ["What are the types of legal services your provide PPC for?"],
+         "responses": ["We provide PPC management solutions to almost all legal services for every location. Here are a few legal services we are working with PPC Management Services for Personal Injury Lawyer, PPC Management Services for Divorce Lawyer, PPC Management Services for Estate Planning Lawyer, PPC Management Services for Bankruptcy Lawyer, PPC Management Services for Intellectual Property Lawyer, PPC Management Services for Employment Lawyer, PPC Management Services for Corporate Lawyer, PPC Management Services for Immigration Lawyer, PPC Management Services for Criminal Lawyer"]
+        },	
+		{"tag": "PPC20",
+         "patterns": ["What is the average cost per click & cost per lead for Legal Services?"],
+         "responses": ["The cost per click and cost per lead for Legal services depend heavily on the type of service combined with the location. The CPC for a Divorce lawyer is very different from a corporate lawyer. So is the case of location, CPC in Sydney is different from San Francisco. Please feel free to contact us for the current PPC rates for legal services."]
+        },	
+		{"tag": "PPC21",
+         "patterns": ["How is Real Estate PPC different from others? "],
+         "responses": ["Extreme focus and care is needed when choosing the keywords and target audience. You cannot show a budget home ad to a millionaire and vice versa. There are a number of moving parts when it comes to Real Estate PPC strategy. Every campaign should be tailor made according to the type of property, the location, the cost, market trends along with various factors. We hear a lot from our clients who had spent thousands of dollars without any success. Most of the real estate campaigns fail due to lack of expertise. Real Estate campaigns are very different from other lead generation campaigns as it requires an advanced level of Industry experience, efficiency and knowledge."]
+        },
+		{"tag": "PPC22",
+         "patterns": ["How do you follow the Real Estate Market Trends?"],
+         "responses": ["We work with directly with several sources including Google who provide us with Industry trends, Search data, User behavior and several other metrics. For example, the mobile search for real estate related queries have increased 45% (Maharashtra, India) while the search in tablets has declined 21%."]
+        },
+		{"tag": "PPC23",
+         "patterns": ["How do you reach an audience who can pay for a million dollar or above for a property?"],
+         "responses": ["We target the high rollers that are actively looking to purchase Premium products. Eg: Booked a test drive with BMW, People looking to purchase a Rolex. Visit each site and capture the test drive page or the test drive confirmation page to set this up. Find out most valuable tips and how you can get 30% more leads from this Real Estate Playbook."]
+        },
+		{"tag": "PPC24",
+         "patterns": ["What sectors in the Real Estate Industry do you offer PPC services?"],
+         "responses": ["We provide PPC services to every sector in the real estate. No matter big, small or medium, we have winning PPC strategies for PPC Management Services for Real Estate Promoters, PPC Management Services for Real Estate Agents, PPC Management Services for Architects, PPC Management Services for Builders, PPC Management Services for Real Estate Finance, PPC Management Services for Mortgage"]
+        },
+		{"tag": "PPC25",
+         "patterns": ["What is the average cost per click & cost per lead for Real Estate Industry?"],
+         "responses": ["The cost per click and cost per lead for Real Estate services depend heavily on the type of property combined with the location. The CPC for a budget home is very different from a luxury villa. So is the case of location, CPC in Dallas is different from San Francisco. Please feel free to contact us for the current PPC rates for the type of property in your area."]
+        },
+		{"tag": "PPC26",
+         "patterns": ["What is a Google Partner?"],
+         "responses": ["You must be aware of AdWords, Google's paid advertising which is done by millions of businesses. Practically it is impossible for Google to analyze all this accounts and suggest best practices. So they educate PPC campaign managers through guides, how to videos, webinars, podcast etc. To test the expertise, Google conducts online exams for search, display, mobile, video, shopping, and analytics. Those who pass the exam will be awarded a certificate [recent certificate] valid for a year and they become a Google certified expert. To become a partner, the agency should spend a certain amount of money on Adspend for every quarter and should have certified experts working for them. The adspend and number of experts differ from a regular Google partner and a Premium Google partner agency."]
+        },
+		{"tag": "PPC27",
+         "patterns": ["What is the difference between Google Partner and Google Premier Partner?"],
+         "responses": ["Google offer two types of partnership with agencies, Google Partner and Premier Partner. \n A Google Partner agency must have at least one Adwords certified expert affiliated with them. They should have a minimum adspend of $10,000 in the last 90 days. A Google partner agency should follow best practices and adhere to Google guidelines of advertising. Not all the agencies who meet the above requirements are provided with a Google partner badge. Google have their own process to approve an agency as a partner. \n  Only a handful of agencies win the Premier Partner badge. Less than 3% of the agencies qualify as Google Premier Partner. Google Premier Partners have a significant number of Adwords certified experts. They manage multiple clients with Adspend over $100,000. They have a strong team with excellent client retention in the past. They should be able to deliver effective results on their existing campaigns. There are various other factors and Google does its due diligence before offering a Premier badge. Google has close relations with premier partners where they integrate their staff with the partners' at the operational level. They host events along with premier partners on product launch, good practices etc. to help clients achieve their business goals."]
+        },
+		{"tag": "PPC28",
+         "patterns": ["How do I identify a Google Premier Partner?"],
+         "responses": ["Google Premier Partners display the badge on their websites. There are a number of companies which show fake badges. You have to click on the badge and make sure that it takes to a page in Google (Check if it is an authentic page from Google) where they provide the credential of the partner. If the badge is clickable and takes you to a similar page then they are for real."]
+        },
+		{"tag": "PPC29",
+         "patterns": ["What is the nearest landmark for whiteDigital?"],
+         "responses": ["We are next to the district court and you will find whiteDigital’s board on the four storied building- Advocate Dharmaraj Complex. HDFC Bank & Pravin Skin Clinic is in the same building."]
+        },
+		{"tag": "PPC30",
+         "patterns": ["Driving directions for whitedigital from Nagercoil Collector office?"],
+         "responses": ["Take the first left from the junction and take a right on the next roundtana and you will find whiteDigital next to district court on the right side within 200 meters. "]
+        },
+		{"tag": "PPC31",
+         "patterns": ["Does whiteDigital have a parking space?"],
+         "responses": ["Yes, you can park your vehicle in 100 meters: free parking."]
+        },
+		{"tag": "PPC32",
+         "patterns": ["Does whiteDigital have special facilities for physically challenged?"],
+         "responses": ["Yes, there is a lift and all the entrances are wheel chair friendly."]
+        },
+		{"tag": "PPC33",
+         "patterns": ["What is the best way to contact whiteDigital?"],
+         "responses": ["You can call weekdays 9-6 on 91-4652-230776/402776 Ext -1 or at any time call, message +91 94 980 999 71.  Our email id is info@whitedigital.in which you can mail 24X7 and your queries will be processed ASAP."]
+        },
+		{"tag": "PPC34",
+         "patterns": ["What payments are accepted in whiteDigital for PPC management?"],
+         "responses": ["Indian’s can pay in cash, cheque, demand draft and bank transfer. For others payment for PPC Management can be made through Transferwise, Bank Transfer, Paypal and Credit Card."]
+        },
+		{"tag": "PPC35",
+         "patterns": ["What is the minimum charge for PPC management services by whiteDigital?"],
+         "responses": ["INR 8000 or USD 89 is the minimum PPC management charge per month."]
+        },
+		{"tag": "PPC36",
+         "patterns": ["Why is whiteDigital’s PPC Management Cost less compared to other Google Premium Partners?"],
+         "responses": ["whiteDigital operates in a region where the operational costs are low and utilize Artificial Intelligence(AI) for successful PPC campaigns which keeps the cost lower while providing superior PPC campaign results."]
+        },
+		{"tag": "PPC37",
+         "patterns": ["Does whiteDigital really offer the PPC campaign setup for FREE?"],
+         "responses": ["Yes, PPC campaign setup is offered for FREE for Google Ads, FB Ads & Bing Ads. We have worked with 100’s of PPC campaigns and have the right data for any Industry making it much easier to setup the PPC campaigns.  We also offer up to $300 in Bonus credits for new accounts in Google Ads."]
+        },
+		{"tag": "PPC38",
+         "patterns": ["I do not have a website; do I qualify for whiteDigital’s PPC campaigns?"],
+         "responses": ["Absolutely, a landing page will be created for your service/product and PPC campaigns will be directed to it."]
+        },
+		{"tag": "PPC39",
+         "patterns": ["Can whiteDigital show my amazon sponsored ads in the similar products pages?"],
+         "responses": ["Yes, we can show your products in the related product pages by creating product targeted Adgroups in Amazon sponsored product campaigns."]
+        },
+		{"tag": "PPC40",
+         "patterns": ["Does whiteDigital create Headline Search Ads in Amazon?"],
+         "responses": ["Yes, we create headline search ads to create brand awareness. But the Brand should be registered in Amazon Seller central. To register your brand, you should be a manufacturer not a reseller."]
+        },
+		{"tag": "PPC41",
+         "patterns": ["I’ve just started selling in amazon. My products are not familiar to the shoppers. Can whiteDigital show my products to the potential buyers?"],
+         "responses": ["With Amazon Sponsored Product & Headline search ads, we can show your products to highly qualified audience with high purchase intent. Also, you have the opportunity to get your products on page 1 of Amazon search results with the help of sponsored ads."]
+        },
+		{"tag": "PPC42",
+         "patterns": ["Should I promote my Products ads only in the festival seasons or Prime day?"],
+         "responses": ["We recommend promoting the campaigns throughout the year if the products are not seasonal products. We suggest increasing the budget twice or thrice in the festival season, priming day, etc."]
+        },
+		{"tag": "PPC43",
+         "patterns": ["I want to track my revenue from Google organic, Ads and social networks. Can whiteDigital help me for this?"],
+         "responses": ["Yes, we can. We will setup Advance Ecommerce conversion tracking to track the transactions and revenue.  Ecommerce tracking allows you to measure the number of transactions and revenue that your website generates from each medium such as Google Ads, organic, social and direct and referral."]
+        },
+		{"tag": "PPC44",
+         "patterns": ["Do whiteDigital check about how the users navigate throughout my website and where they drop?"],
+         "responses": ["Yes of course, we will check the behavior flow of the users by using Google analytics. Also we will analyze the pages where the users are exit and we will sort out the reason for that."]
+        },
+		{"tag": "PPC45",
+         "patterns": ["What are the tools whiteDigital using to track the website actions such as form filling and page visits."],
+         "responses": ["Now we are using three major tools to track the website actions. We are using Google Ads conversion tracking, Google Analytics and Google tag manager to track the conversions. In some cases we will use third party tracking tools such as smartlook and hotjar."]
+        },
+      {"tag": "contact",
+       "patterns": ["How should I share my account access for a Free Expert Review?","How should I share the Bing Ads account access for a Free Expert Review?"],
+       "responses": ["Just contact us and we will get back to you in 24 hours with the details."]
+      },
+      {"tag": "thanks",
+       "patterns": ["Thanks", "Thank you", "That's helpful"],
+       "responses": ["Happy to help!", "Any time!", "My pleasure"]
+      }
+   ]
+}

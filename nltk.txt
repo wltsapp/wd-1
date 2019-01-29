@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+wordnet
+pros_cons
+=======
+wordnet
+pros_cons
+>>>>>>> 7757cd3321694f057d726174570e7369373e6c9e
+reuters
