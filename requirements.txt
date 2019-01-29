@@ -17,25 +17,4 @@ urllib3==1.22
 Werkzeug==0.14.1
 tensorflow==1.4.0
 nltk
-=======
-boost==0.1
-cmake==0.7.1
-numpy
-Pillow
-scipy>=0.17.0
-Flask==0.12.1
-Flask-Ask==0.9.7
-gunicorn==19.7.1
-Jinja2==2.10
-pycparser==2.18
-pyOpenSSL==17.0.0
-python-dateutil==2.7.2
-PyYAML==3.12
-requests==2.18.4
-Unidecode==1.0.22
-urllib3==1.22
-Werkzeug==0.14.1
-tensorflow==1.4.0
-nltk
->>>>>>> 7757cd3321694f057d726174570e7369373e6c9e
 tflearn
