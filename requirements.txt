@@ -6,7 +6,7 @@ scipy>=0.17.0
 Flask==0.12.1
 Flask-Ask==0.9.7
 gunicorn==19.7.1
-Jinja2==2.10
+Jinja2==2.11.3
 pycparser==2.18
 pyOpenSSL==17.0.0
 python-dateutil==2.7.2
