@@ -10,7 +10,7 @@ Jinja2==2.10
 pycparser==2.18
 pyOpenSSL==17.0.0
 python-dateutil==2.7.2
-PyYAML==3.12
+PyYAML==5.4
 requests==2.18.4
 Unidecode==1.0.22
 urllib3==1.22
